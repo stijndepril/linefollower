@@ -17,4 +17,4 @@ als alles goed werkt dan kan je je eerder gemaakte basisplaat erbij nemen en kan
 ### stap 7
 als alles goed staat op de basisplaat dan kan je alles beginnen vastzetten. ik heb dit gedaan met dubbelzijdige tape maar je kan hier veel verschillende dingen voor gebruiken.
 ### stap 8
-normaalgezein als alle stappen correct zijn gevolgd dan kom je ju een goed werkent robotje uit volgens de foto.  
+normaalgezien als alle stappen correct zijn gevolgd dan kom je ju een goed werkent robotje uit volgens de foto.  
