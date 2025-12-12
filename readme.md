@@ -6,21 +6,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ATmega32u4
 
 motors: 
 
-h-bridge:
+h-bridge: DRV8833 Dual Motor Driver Carrier
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries:  18650 Li-ion batterijen
 
-wireless communication:
+wireless communication: HC-05 
 
-distance sensor - motors:
+distance sensor - motors: 95mm
 
-weight:
+weight: 211g
 
-speed: 
+speed: 0.6m/s
 
