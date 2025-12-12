@@ -8,7 +8,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 
 microcontroller: ATmega32u4
 
-motors: 
+motors: MiniDCN20,6V-30rpm
 
 h-bridge: DRV8833 Dual Motor Driver Carrier
 
